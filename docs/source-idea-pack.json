@@ -1,0 +1,38 @@
+{
+  "product": "camera-security-ocr-server",
+  "sourceRank": {
+    "rank": 58,
+    "tier": "P3",
+    "score": 52,
+    "domain": "IoT",
+    "ideaNo": 9,
+    "ideaName": "カメラ・防犯・OCR記録サーバー",
+    "repositoryName": "camera-security-ocr-server",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "カメラ/防犯/OCRは価値があるが、プライバシーと設置負荷が大きい。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_009_camera-security-ocr-server",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_009_camera-security-ocr-server\\idea_009_camera-security-ocr-server.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "camera-security-ocr-server",
+  "metadataIdea": "カメラ・防犯・OCR記録サーバー",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
