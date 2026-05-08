@@ -1,0 +1,11 @@
+{
+  "product": "camera-security-ocr-server",
+  "title": "カメラ・防犯・OCR記録サーバー",
+  "domain": "IoT",
+  "ideaNo": 9,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
